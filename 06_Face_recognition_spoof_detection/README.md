@@ -164,7 +164,7 @@ cd 06_Face_recognition_spoof_detection/Face_registration_<cam/usbcam>/exe/
 3. Choose whether to capture image, append or write database.
     1. for capturing new face
         1. Enter the name of the image to be saved.
-        2. The face must be inside the circular box.
+        2. The face must be inside the circular region.
         3. Enter c (c+Enter) to capture.
 
 ```
