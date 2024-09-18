@@ -278,7 +278,7 @@
         },
         "Param": {
             "DIN_FORMAT": 0,
-            "DOUT_RGB_ORDER": 1,
+            "DOUT_RGB_ORDER": 0,
             "cof_add": "post_0_1_imagescaler_cof_add",
             "cof_mul": "post_0_1_imagescaler_cof_mul"
         }
