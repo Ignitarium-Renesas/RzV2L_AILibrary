@@ -78,7 +78,7 @@ OFFSET_ADD:112,layer_name:post_0_1_imagescaler,drp_lib:imagescaler,prop:intermed
   Param:ADD_ADDR,           Value:2165718144, offset:48,size:4, 
   Param:MUL_ADDR,           Value:2165718152, offset:52,size:4, 
   Param:DIN_FORMAT,         Value:0,          offset:56,size:2, 
-  Param:DOUT_RGB_ORDER,     Value:1,          offset:58,size:2, 
+  Param:DOUT_RGB_ORDER,     Value:0,          offset:58,size:2, 
   Param:RFU6,               Value:0,          offset:60,size:2, 
   Param:RFU7,               Value:0,          offset:62,size:2, 
 OFFSET_ADD:176,layer_name:input.8,drp_lib:maxpooling_k2_st2,prop:intermediate_data,node:,

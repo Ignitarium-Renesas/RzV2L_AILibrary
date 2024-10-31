@@ -52,8 +52,6 @@ cd RZV2L_AiLibrary/13_Car_ahead_departure_detection/Car_ahead_departure_detectio
 make
 ~~~
 
-~~~
-
 ## Running the application
 The generated executable file from laptop needs to be transfered on the RZv2L board along with other files.
 

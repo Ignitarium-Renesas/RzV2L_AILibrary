@@ -89,12 +89,12 @@ The overall flow of the application can be described in following sequence :
 After doing desired modifications in the source code, Perform this steps on a laptop/PC with SDK installed.
 - MIPI Cam
 ~~~ 
-cd RZV2L_AiLibrary/02_Line_crossing_object_counting/02_Line_crossing_object_counting_MIPI_cam
+cd RZV2L_AiLibrary/02_Line_crossing_object_counting/Line_crossing_object_counting_cam/
 make
 ~~~
 - USB Cam
 ~~~ 
-cd RZV2L_AiLibrary/02_Line_crossing_object_counting/02_Line_crossing_object_counting_USB_cam
+cd RZV2L_AiLibrary/02_Line_crossing_object_counting/Line_crossing_object_counting_usbcam
 make
 ~~~
 
@@ -102,7 +102,7 @@ make
 The generated executable file from laptop needs to be transfered on the RZv2L board along with other files.
 ~~~ 
 cd exe/
-./02_Line_crossing_object_counting person 150 0 350 450 1
+./line_crossing_object_counting_usbcam_app person 150 0 350 450 1
 ~~~
 
 ### Sample image for the command entered above:

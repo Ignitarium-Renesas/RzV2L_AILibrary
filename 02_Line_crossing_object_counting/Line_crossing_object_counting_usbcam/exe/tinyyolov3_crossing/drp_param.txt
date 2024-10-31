@@ -78,7 +78,7 @@ OFFSET_ADD:112, layer name: post_0_1_imagescaler
   Param: ADD_ADDR            Value: 0x81163c80
   Param: MUL_ADDR            Value: 0x81163c88
   Param: DIN_FORMAT          Value: 0x0
-  Param: DOUT_RGB_ORDER      Value: 0x1
+  Param: DOUT_RGB_ORDER      Value: 0x0
   Param: RFU6                Value: 0x0
   Param: RFU7                Value: 0x0
 OFFSET_ADD:176, layer name: input.8
